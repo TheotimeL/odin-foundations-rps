@@ -1,0 +1,11 @@
+#root {
+    padding: 100px;
+    height: 100vh;
+    background-color: rgb(4, 47, 88);
+    color: wheat;
+}
+
+* {
+    padding-top:5px;
+    padding-bottom: 5px;
+}
